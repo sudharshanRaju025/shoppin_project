@@ -103,7 +103,7 @@ function Home() {
            <a
              href="#"
              className="text-blue-600 font-medium hover:underline mt-2 inline-block">
-             Show price in my city
+             Show price in this city
            </a>
            <div className="w-1/ ">
              <p className="mb-3 text-lg font-bold bg-black-400">
