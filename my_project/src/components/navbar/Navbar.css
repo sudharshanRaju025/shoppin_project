@@ -1,0 +1,23 @@
+#hii{
+    color:blue;
+    text-align: center;
+}
+
+#nav_bar{
+    color: green;
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: justify;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-inline: 20px;
+}
+
+#submit{
+  border:  2px solid;    
+  border-color: black;
+  padding-left: 30px;
+  align-content: center;
+}
